@@ -1,0 +1,5 @@
+# dependencies
+/login-assessment/node_modules
+/login-assessment/.pnp
+/login-assessment/.pnp.js
+/login-assessment-server/node_modules
