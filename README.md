@@ -27,3 +27,7 @@ $cd login-assessment/
 $npm i
 $npm run start
 ```
+
+Demo user:
+- Email: user@user.com
+- Password: user
